@@ -169,7 +169,7 @@ Java / Kotlin ███████████████░░░░░ 75%
 
 <div align="center">
 
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=codewithAkram-ui&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithAkram-ui&layout=compact&theme=tokyonight)
 
 </div>
 
