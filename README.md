@@ -1,6 +1,4 @@
-
-
-
+<div align="center">
 
 ```
  ██████╗ ██████╗ ██████╗ ███████╗ █████╗ ██╗  ██╗██████╗  █████╗ ███╗   ███╗
@@ -11,13 +9,15 @@
  ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=7F77DD¢er=true&vCenter=true&multiline=false&width=680&lines=AI+Engineer+%26+Researcher;Full+Stack+Architect;Building+intelligent+systems+%40+scale;PyTorch+%7C+Next.js+%7C+Kubernetes+%7C+AWS;Shipping+the+future%2C+one+commit+at+a+time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=7F77DD&center=true&vCenter=true&width=680&lines=AI+Engineer+%26+Researcher;Full+Stack+Architect;Building+intelligent+systems+%40+scale;PyTorch+%7C+Next.js+%7C+Kubernetes+%7C+AWS;Shipping+the+future%2C+one+commit+at+a+time)](https://git.io/typing-svg)
+
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CodeAkram&color=7F77DD&style=flat-square&label=profile+views)
 [![GitHub followers](https://img.shields.io/github/followers/CodeAkram?style=flat-square&color=1D9E75&label=followers)](https://github.com/CodeAkram)
+[![GitHub stars](https://img.shields.io/github/stars/CodeAkram?style=flat-square&color=D85A30&label=total+stars)](https://github.com/CodeAkram)
 
-
-
+</div>
 
 ---
 
@@ -25,17 +25,17 @@
 
 ```python
 class AkramAliFaridi:
-  def __init__(self):
-    self.name       = "Akram Ali Faridi"
-    self.role       = ["AI Engineer", "Researcher", "Full Stack Architect"]
-    self.languages  = ["Python", "TypeScript", "JavaScript", "Java", "Kotlin", "C"]
-    self.focus      = ["LLMs", "Computer Vision", "Distributed Systems", "Cloud Native"]
-    self.cloud      = ["AWS", "GCP", "Azure"]
-    self.currently  = "Building at the edge of AI + software"
-    self.contact    = "faridiakram41@gmail.com"
+    def __init__(self):
+        self.name       = "Akram Ali Faridi"
+        self.role       = ["AI Engineer", "Researcher", "Full Stack Architect"]
+        self.languages  = ["Python", "TypeScript", "JavaScript", "Java", "Kotlin", "C"]
+        self.focus      = ["LLMs", "Computer Vision", "Distributed Systems", "Cloud Native"]
+        self.cloud      = ["AWS", "GCP", "Azure"]
+        self.currently  = "Building at the edge of AI + software"
+        self.contact    = "faridiakram41@gmail.com"
 
-  def philosophy(self) -> str:
-    return "Ship fast. Think deep. Build things that matter."
+    def philosophy(self) -> str:
+        return "Ship fast. Think deep. Build things that matter."
 
 dev = AkramAliFaridi()
 ```
@@ -44,33 +44,40 @@ dev = AkramAliFaridi()
 
 ### `tech --list`
 
-
-
+<table>
+<tr>
+<td valign="top" width="33%">
 
 **AI / ML**
+
 `PyTorch` `TensorFlow` `Keras`
 `scikit-learn` `OpenCV` `mlflow`
 `Pandas` `NumPy` `Matplotlib`
 `SciPy` `CUDA` `Streamlit`
 
-	
+</td>
+<td valign="top" width="33%">
 
 **Frontend**
+
 `React` `Next.js` `Vue.js` `Angular`
 `TypeScript` `TailwindCSS`
 `Three.js` `React Native`
 `Expo` `Electron` `Web3.js`
 
-	
+</td>
+<td valign="top" width="33%">
 
 **Backend & Cloud**
+
 `FastAPI` `Node.js` `Express`
 `Flask` `Firebase` `Supabase`
 `AWS` `GCP` `Azure`
 `Docker` `Kubernetes` `Airflow`
 
-
-
+</td>
+</tr>
+</table>
 
 ---
 
@@ -89,78 +96,109 @@ Java / Kotlin ███████████████░░░░░ 75%
 
 ### `git --stats`
 
+<div align="center">
 
+<img src="https://github-readme-stats.shion.dev/api?username=CodeAkram&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=7F77DD&text_color=C9D1D9&icon_color=1D9E75" />
 
+<br/>
 
+<img src="https://streak-stats.demolab.com/?user=CodeAkram&theme=tokyonight&hide_border=true&background=0D1117&stroke=7F77DD&ring=D85A30&fire=BA7517&currStreakLabel=C9D1D9" />
 
+<br/>
 
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=CodeAkram&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117&title_color=7F77DD&text_color=C9D1D9&count_private=true" />
 
-
-
-
-
-
+</div>
 
 ---
 
-### `trophies --showcase`
+### `contributions.eating`
 
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/CodeAkram/CodeAkram/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/CodeAkram/CodeAkram/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="github-snake"
+      src="https://raw.githubusercontent.com/CodeAkram/CodeAkram/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</div>
 
+---
 
+### `wakatime.coding-activity`
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=CodeAkram&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7)
+<div align="center">
 
+[![Wakatime Stats](https://github-readme-stats.shion.dev/api/wakatime?username=CodeAkram&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F77DD&text_color=C9D1D9&icon_color=1D9E75&layout=compact&langs_count=8&custom_title=Weekly+Coding+Breakdown)](https://wakatime.com/@CodeAkram)
 
+[![Wakatime Stats](https://github-readme-stats.shion.dev/api/wakatime?username=codewithAkram-ui&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F77DD&text_color=C9D1D9&icon_color=1D9E75&layout=compact&langs_count=8&custom_title=Weekly+Coding+Breakdown)](https://wakatime.com/@codewithAkram-ui)
 
+</div>
 
 ---
 
 ### `contributions --graph`
 
-
-
+<div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CodeAkram&theme=tokyo-night&hide_border=true&area=true&area_color=7F77DD)](https://github.com/CodeAkram)
 
+</div>
 
+---
 
+### `trophies --showcase`
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=CodeAkram&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7)
+
+</div>
 
 ---
 
 ### `top-repos --contributed`
 
+<div align="center">
+
 ![Top Repos](https://github-contributor-stats.vercel.app/api?username=CodeAkram&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+</div>
 
 ---
 
 ### `quote --today`
 
-
-
+<div align="center">
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-
-
+</div>
 
 ---
 
 ### `connect --social`
 
-
-
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akram-ali-faridi-95894b3a9/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faridiakram41@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Shoyev._4)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeAkram)
 
-
-
+</div>
 
 ---
 
-
-
-  
-  built with intention · powered by curiosity · deployed to production
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=80&section=footer" />
+  <sub>built with intention · powered by curiosity · deployed to production</sub>
+</div>
