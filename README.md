@@ -169,7 +169,7 @@ Java / Kotlin ███████████████░░░░░ 75%
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=codewithAkram-ui&repo=mudra-detection&theme=radical)](https://github.com/codewithAkram-ui/mudra-detection)
+[![Repo Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=codewithAkram-ui&repo=mudra-detection&theme=github_dark)](https://github.com/codewithAkram-ui/mudra-detection)
 
 </div>
 
