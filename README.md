@@ -13,9 +13,9 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=CodeAkram&color=7F77DD&style=flat-square&label=profile+views)
-[![GitHub followers](https://img.shields.io/github/followers/CodeAkram?style=flat-square&color=1D9E75&label=followers)](https://github.com/CodeAkram)
-[![GitHub stars](https://img.shields.io/github/stars/CodeAkram?style=flat-square&color=D85A30&label=total+stars)](https://github.com/CodeAkram)
+![Profile Views](https://komarev.com/ghpvc/?username=codewithAkram-ui&color=7F77DD&style=flat-square&label=profile+views)
+[![GitHub followers](https://img.shields.io/github/followers/codewithAkram-ui?style=flat-square&color=1D9E75&label=followers)](https://github.com/codewithAkram-ui)
+[![GitHub stars](https://img.shields.io/github/stars/codewithAkram-ui?style=flat-square&color=D85A30&label=total+stars)](https://github.com/codewithAkram-ui)
 
 </div>
 
@@ -98,15 +98,15 @@ Java / Kotlin ███████████████░░░░░ 75%
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=CodeAkram&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=7F77DD&text_color=C9D1D9&icon_color=1D9E75" />
+<img src="https://github-readme-stats.shion.dev/api?username=codewithAkram-ui&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=7F77DD&text_color=C9D1D9&icon_color=1D9E75" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=CodeAkram&theme=tokyonight&hide_border=true&background=0D1117&stroke=7F77DD&ring=D85A30&fire=BA7517&currStreakLabel=C9D1D9" />
+<img src="https://streak-stats.demolab.com/?user=codewithAkram-ui&theme=tokyonight&hide_border=true&background=0D1117&stroke=7F77DD&ring=D85A30&fire=BA7517&currStreakLabel=C9D1D9" />
 
 <br/>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=CodeAkram&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117&title_color=7F77DD&text_color=C9D1D9&count_private=true" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=codewithAkram-ui&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117&title_color=7F77DD&text_color=C9D1D9&count_private=true" />
 
 </div>
 
@@ -118,15 +118,15 @@ Java / Kotlin ███████████████░░░░░ 75%
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/CodeAkram/CodeAkram/output/github-contribution-grid-snake-dark.svg"
+      srcset="https://raw.githubusercontent.com/codewithAkram-ui/codewithAkram-ui/output/github-contribution-grid-snake-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/CodeAkram/CodeAkram/output/github-contribution-grid-snake.svg"
+      srcset="https://raw.githubusercontent.com/codewithAkram-ui/codewithAkram-ui/output/github-contribution-grid-snake.svg"
     />
     <img
       alt="github-snake"
-      src="https://raw.githubusercontent.com/CodeAkram/CodeAkram/output/github-contribution-grid-snake.svg"
+      src="https://raw.githubusercontent.com/codewithAkram-ui/codewithAkram-ui/output/github-contribution-grid-snake.svg"
     />
   </picture>
 </div>
@@ -137,9 +137,9 @@ Java / Kotlin ███████████████░░░░░ 75%
 
 <div align="center">
 
-[![Wakatime Stats](https://github-readme-stats.shion.dev/api/wakatime?username=CodeAkram&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F77DD&text_color=C9D1D9&icon_color=1D9E75&layout=compact&langs_count=8&custom_title=Weekly+Coding+Breakdown)](https://wakatime.com/@CodeAkram)
-
 [![Wakatime Stats](https://github-readme-stats.shion.dev/api/wakatime?username=codewithAkram-ui&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F77DD&text_color=C9D1D9&icon_color=1D9E75&layout=compact&langs_count=8&custom_title=Weekly+Coding+Breakdown)](https://wakatime.com/@codewithAkram-ui)
+
+[![WakaTime](https://wakatime.com/badge/user/codewithAkram-ui.svg?style=flat-square&color=7F77DD)](https://wakatime.com/@codewithAkram-ui)
 
 </div>
 
@@ -149,7 +149,7 @@ Java / Kotlin ███████████████░░░░░ 75%
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CodeAkram&theme=tokyo-night&hide_border=true&area=true&area_color=7F77DD)](https://github.com/CodeAkram)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=codewithAkram-ui&theme=tokyo-night&hide_border=true&area=true&area_color=7F77DD)](https://github.com/codewithAkram-ui)
 
 </div>
 
@@ -159,7 +159,7 @@ Java / Kotlin ███████████████░░░░░ 75%
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=CodeAkram&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=codewithAkram-ui&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7)
 
 </div>
 
@@ -169,7 +169,7 @@ Java / Kotlin ███████████████░░░░░ 75%
 
 <div align="center">
 
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=CodeAkram&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=codewithAkram-ui&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 </div>
 
@@ -192,7 +192,7 @@ Java / Kotlin ███████████████░░░░░ 75%
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akram-ali-faridi-95894b3a9/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faridiakram41@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Shoyev._4)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeAkram)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codewithAkram-ui)
 
 </div>
 
