@@ -18,7 +18,8 @@ jobs:
           github_user_name: codewithAkram-ui
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
+            dist/github-contribution-grid-snake-dark.sv
+            dist/github-contribution-grid-snake.gif
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
