@@ -137,9 +137,8 @@ Java / Kotlin ███████████████░░░░░ 75%
 
 <div align="center">
 
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=AkramFaridi&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F77DD&text_color=C9D1D9&layout=compact&langs_count=8)](https://wakatime.com/@AkramFaridi)
-
-[![WakaTime](https://wakatime.com/badge/user/AkramFaridi.svg?style=flat-square&color=7F77DD)](https://wakatime.com/@AkramFaridi)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 </div>
 
