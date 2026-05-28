@@ -98,7 +98,7 @@ Java / Kotlin ███████████████░░░░░ 75%
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=codewithAkram-ui&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=7F77DD&text_color=C9D1D9&icon_color=1D9E75" />
+<img src="https://github-readme-stats.vercel.app/api?username=codewithAkram-ui&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=7F77DD&text_color=C9D1D9&icon_color=1D9E75" />
 
 <br/>
 
@@ -106,7 +106,7 @@ Java / Kotlin ███████████████░░░░░ 75%
 
 <br/>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=codewithAkram-ui&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117&title_color=7F77DD&text_color=C9D1D9&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithAkram-ui&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117&title_color=7F77DD&text_color=C9D1D9&count_private=true" />
 
 </div>
 
@@ -139,12 +139,6 @@ Java / Kotlin ███████████████░░░░░ 75%
 
 <!--START_SECTION:waka-->
 
-```txt
-From: 20 May 2026 - To: 27 May 2026
-
-Other   0 secs                █████████████████████████   100.00 %
-```
-
 <!--END_SECTION:waka-->
 
 </div>
@@ -165,7 +159,7 @@ Other   0 secs                ████████████████�
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=codewithAkram-ui&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=codewithAkram-ui&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
 
 </div>
 
@@ -175,7 +169,7 @@ Other   0 secs                ████████████████�
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=codewithAkram-ui&repo=mudra-detection&theme=github_dark)](https://github.com/codewithAkram-ui/mudra-detection)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=codewithAkram-ui&repo=mudra-detection&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F77DD&text_color=C9D1D9&icon_color=1D9E75)](https://github.com/codewithAkram-ui/mudra-detection)
 
 </div>
 
