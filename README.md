@@ -155,25 +155,7 @@ Java / Kotlin ███████████████░░░░░ 75%
 
 ---
 
-### `trophies --showcase`
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=codewithAkram-ui&theme=nord&column=4&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-### `top-repos --contributed`
-
-<div align="center">
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=codewithAkram-ui&repo=mudra-detection&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F77DD&text_color=C9D1D9&icon_color=1D9E75)](https://github.com/codewithAkram-ui/mudra-detection)
-
-</div>
-
----
 
 ### `quote --today`
 
