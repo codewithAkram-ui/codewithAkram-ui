@@ -159,7 +159,7 @@ Java / Kotlin ███████████████░░░░░ 75%
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=codewithAkram-ui&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
+[![trophy](https://github-profile-trophy.vercel.app/?username=codewithAkram-ui&theme=nord&column=4&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
