@@ -233,16 +233,14 @@ print(f"[BOOT] {dev.name} :: {dev.philosophy()}")
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 August 2026 - To: 07 September 2026
+From: 01 September 2026 - To: 08 September 2026
 
-Python       1 hr 31 mins          ███████████████▒░░░░░░░░░   61.10 %
-JavaScript   26 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.89 %
-Markdown     13 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 %
-CSV          5 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
-Other        4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
-Bash         3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
-Batchfile    3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
-YAML         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+Python       43 mins               █████████████▓░░░░░░░░░░░   54.92 %
+JavaScript   26 mins               ████████▒░░░░░░░░░░░░░░░░   33.82 %
+Bash         3 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
+Batchfile    3 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
+Other        1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+CSS          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 ```
 
 <!--END_SECTION:waka-->
