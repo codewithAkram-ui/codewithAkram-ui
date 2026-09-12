@@ -233,13 +233,10 @@ print(f"[BOOT] {dev.name} :: {dev.philosophy()}")
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 September 2026 - To: 10 September 2026
+From: 04 September 2026 - To: 11 September 2026
 
-Python       58 mins               ████████████████░░░░░░░░░   64.25 %
-JavaScript   24 mins               ███████░░░░░░░░░░░░░░░░░░   27.39 %
-Bash         3 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
-Batchfile    3 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
-CSS          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Python       14 mins               ████████████████████▒░░░░   80.73 %
+JavaScript   3 mins                ████▓░░░░░░░░░░░░░░░░░░░░   19.27 %
 ```
 
 <!--END_SECTION:waka-->
